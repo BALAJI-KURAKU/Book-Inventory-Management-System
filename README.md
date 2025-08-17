@@ -44,3 +44,12 @@ This project is great for **beginners in C programming** who want to practice **
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Book-Inventory-Management-System.git
+2. Navigate to the project folder:
+   ```bash
+   cd Book-Inventory-Management-System
+3. Compile the program:
+   ```bash
+   gcc inventory.c -o inventory
+4. Run the program:
+   ```bash
+   ./inventory

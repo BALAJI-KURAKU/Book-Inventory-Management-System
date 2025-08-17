@@ -22,6 +22,7 @@ This project is great for **beginners in C programming** who want to practice **
 
 ## 🚀 Features
 - Add books with details: **ID, Title, Author, Price, Quantity**
+- Display the entire inventory
 - Update or delete existing books
 - Search by **Book ID**
 - Calculate **total inventory value**
@@ -57,13 +58,14 @@ This project is great for **beginners in C programming** who want to practice **
 ---
 
 ### 📸 Sample Output
-
+<img width="723" height="885" alt="image" src="https://github.com/user-attachments/assets/8249de6b-f5ae-4b53-80ef-a4c7b28fd0d7" />
 
 ---
 
 ### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
 Feel free to fork this repo and submit a pull request.
 
 ### 📄 License

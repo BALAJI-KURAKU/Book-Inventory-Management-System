@@ -53,3 +53,34 @@ This project is great for **beginners in C programming** who want to practice **
 4. Run the program:
    ```bash
    ./inventory
+
+---
+
+### 📸 Sample Output
+   ```bash
+Initial Inventory:
+ID: 1
+Title: C Programming
+Author: Dennis Ritchie
+Price: $19.99
+Quantity: 50
+
+Additional Functions:
+1. Search for a Book by ID
+2. Update Book Information
+3. Remove a Book by ID
+4. Display the Inventory
+5. Add a New Book
+6. Calculate Total Value
+7. Exit
+
+---
+
+### 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.

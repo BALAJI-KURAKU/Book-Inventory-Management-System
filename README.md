@@ -57,21 +57,6 @@ This project is great for **beginners in C programming** who want to practice **
 ---
 
 ### 📸 Sample Output
-   ```bash
-
----
-
-⚡ Next Steps for GitHub Setup:
-1. Create repo → **Book-Inventory-Management-System**  
-2. Add your `inventory.c` file  
-3. Add this `README.md`  
-4. Add a `LICENSE` file (MIT recommended)  
-5. Optionally add `.gitignore` (for C projects, ignore `*.o`, `*.exe`, etc.)  
-
----
-
-👉 Do you want me to also prepare a **LICENSE file (MIT)** and a `.gitignore` for your repo so you can just copy-paste everything?
-
 
 
 ---
@@ -81,6 +66,6 @@ This project is great for **beginners in C programming** who want to practice **
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
-📄 License
+### 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.

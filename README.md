@@ -44,7 +44,7 @@ This project is great for **beginners in C programming** who want to practice **
 ### ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Book-Inventory-Management-System.git
+   git clone https://github.com/BALAJI-KURAKU/Book-Inventory-Management-System.git
 2. Navigate to the project folder:
    ```bash
    cd Book-Inventory-Management-System
